@@ -1,0 +1,14 @@
+C:\SDC320- Advanced C#\Sierra_Boyd_SDC320_CourseProject\bin\Debug\net8.0\Sierra_Boyd_SDC320_CourseProject.exe
+C:\SDC320- Advanced C#\Sierra_Boyd_SDC320_CourseProject\bin\Debug\net8.0\Sierra_Boyd_SDC320_CourseProject.deps.json
+C:\SDC320- Advanced C#\Sierra_Boyd_SDC320_CourseProject\bin\Debug\net8.0\Sierra_Boyd_SDC320_CourseProject.runtimeconfig.json
+C:\SDC320- Advanced C#\Sierra_Boyd_SDC320_CourseProject\bin\Debug\net8.0\Sierra_Boyd_SDC320_CourseProject.dll
+C:\SDC320- Advanced C#\Sierra_Boyd_SDC320_CourseProject\bin\Debug\net8.0\Sierra_Boyd_SDC320_CourseProject.pdb
+C:\SDC320- Advanced C#\Sierra_Boyd_SDC320_CourseProject\obj\Debug\net8.0\Sierra_Boyd_SDC320_CourseProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\SDC320- Advanced C#\Sierra_Boyd_SDC320_CourseProject\obj\Debug\net8.0\Sierra_Boyd_SDC320_CourseProject.AssemblyInfoInputs.cache
+C:\SDC320- Advanced C#\Sierra_Boyd_SDC320_CourseProject\obj\Debug\net8.0\Sierra_Boyd_SDC320_CourseProject.AssemblyInfo.cs
+C:\SDC320- Advanced C#\Sierra_Boyd_SDC320_CourseProject\obj\Debug\net8.0\Sierra_Boyd_SDC320_CourseProject.csproj.CoreCompileInputs.cache
+C:\SDC320- Advanced C#\Sierra_Boyd_SDC320_CourseProject\obj\Debug\net8.0\Sierra_Boyd_SDC320_CourseProject.dll
+C:\SDC320- Advanced C#\Sierra_Boyd_SDC320_CourseProject\obj\Debug\net8.0\refint\Sierra_Boyd_SDC320_CourseProject.dll
+C:\SDC320- Advanced C#\Sierra_Boyd_SDC320_CourseProject\obj\Debug\net8.0\Sierra_Boyd_SDC320_CourseProject.pdb
+C:\SDC320- Advanced C#\Sierra_Boyd_SDC320_CourseProject\obj\Debug\net8.0\Sierra_Boyd_SDC320_CourseProject.genruntimeconfig.cache
+C:\SDC320- Advanced C#\Sierra_Boyd_SDC320_CourseProject\obj\Debug\net8.0\ref\Sierra_Boyd_SDC320_CourseProject.dll

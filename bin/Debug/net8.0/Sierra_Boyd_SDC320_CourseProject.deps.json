@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sierra_Boyd_SDC320_CourseProject/1.0.0": {
+        "runtime": {
+          "Sierra_Boyd_SDC320_CourseProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sierra_Boyd_SDC320_CourseProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
