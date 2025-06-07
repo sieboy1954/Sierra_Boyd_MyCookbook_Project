@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sierra_Boyd_SDC320_CourseProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4744ebb9c70f0abd757223b0325781045333e432")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sierra_Boyd_SDC320_CourseProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sierra_Boyd_SDC320_CourseProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
