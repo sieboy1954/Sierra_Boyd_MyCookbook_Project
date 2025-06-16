@@ -1,7 +1,7 @@
 # Project Name: My Cookbook
 
 
-## Project Dexcription: For the project I created an interactive recipe saver. With this program you can add a recipe to your "Cookbook". You can add a "type of recipe", "title", "ingredients list", and then "instructions". An automatic ID number is assigned to every recipe you add allowing for easy lookup. This program also allows for CRUD operations allowing the user to create a recipe, read, update, or delete a recipe. This program was written in C# and uses SQLite for data storage. 
+## Project Description: For the project I created an interactive recipe saver. With this program you can add a recipe to your "Cookbook". You can add a "type of recipe", "title", "ingredients list", and then "instructions". An automatic ID number is assigned to every recipe you add allowing for easy lookup. This program also allows for CRUD operations allowing the user to create a recipe, read, update, or delete a recipe. This program was written in C# and uses SQLite for data storage. 
 
 
 
