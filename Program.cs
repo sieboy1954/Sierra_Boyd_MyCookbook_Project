@@ -1,7 +1,11 @@
 ﻿//Sierra Boyd
 //6/7/2025
-//Course Project - Pt3 Class Implmentation
+//Course Project 
 //SDC320 
+
+// Description: This is the main entry point of the application.
+// It provides a simple menu-driven console interface for users 
+// to manage recipes (add, edit, delete, view, and list).
 
 using System;
 
@@ -9,20 +13,27 @@ class Program
 {
     static void Main(string[] args)
     {
+
+        // Instantiate the recipe manager
         Recipe recipeManager = new Recipe();
 
+        // Infinite loop for the main menu
         while (true)
         {
-            Console.WriteLine("\n****** My Cookbook *****");
+            // Display menu options
+            Console.WriteLine("\n****** My Cookbook *****\n");
             Console.WriteLine("1. Add Recipe");
             Console.WriteLine("2. Edit Recipe");
             Console.WriteLine("3. Delete Recipe");
             Console.WriteLine("4. Display Recipe");
             Console.WriteLine("5. List All Recipes");
-            Console.WriteLine("0. Exit");
+            Console.WriteLine("0. Exit\n");
             Console.Write("Select an option: ");
 
+            // Get user choice
             string choice = Console.ReadLine() ?? "";
+
+            // Handle user selection
             switch (choice)
             {
                 case "1": recipeManager.AddRecipe(); break;
